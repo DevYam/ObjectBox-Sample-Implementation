@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ObjectBoxNote</string>
+    <string name="enter_a_text_to_persist">Enter a text to persist</string>
+    <string name="get_all">Get All</string>
+    <string name="save">Save</string>
+    <string name="get_data">Get Data</string>
+</resources>
